@@ -43,6 +43,13 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - ### **Pré-requisitos**
 
+
+1. Faça um clone :
+
+```sh
+  git@github.com:vitordcode/Doe.git
+```
+
   - Não é necessário instalar dependencias para este projeto, apenas abra a pasta do projeto em qualquer editor de texto!
 
 
